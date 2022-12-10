@@ -1,1 +1,1 @@
-## AirBnB clone - MySQL
+AirBnb clone-SQL
